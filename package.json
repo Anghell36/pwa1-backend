@@ -1,6 +1,7 @@
 {
   "name": "el-quesillo-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "API para procesamiento de pagos y base de datos de El Quesillo",
   "main": "api/checkout.js",
   "dependencies": {
