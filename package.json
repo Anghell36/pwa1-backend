@@ -5,10 +5,10 @@
   "description": "API para procesamiento de pagos y base de datos de El Quesillo",
   "main": "api/checkout.js",
   "dependencies": {
-    "stripe": "^15.0.0",
-    "mongodb": "^6.5.0"
-    },
-    "engines": {
-  "node": "24.x"
-}
+    "stripe": "^15.12.0",
+    "mongodb": "^6.8.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
 }
